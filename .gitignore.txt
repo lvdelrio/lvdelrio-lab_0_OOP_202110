@@ -1,1 +1,1 @@
-this_wil_be_ignore.txt
+this_wil_be_ignored.txt
